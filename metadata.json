@@ -1,0 +1,6 @@
+{
+  "name": "StudyClash",
+  "description": "Plataforma de gamificación educativa interactiva para estudiar con amigos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
